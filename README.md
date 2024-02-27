@@ -1,7 +1,7 @@
 # LanguageStudio
 
-Entender algumas funcionalidades do language studio e do speech studio
-Descrição: É possível realizar uma série de tarefas, como transformar audio em texto, texto em aúdio, analise de sentimos e muito mais.
+Understand some features of language studio and speech studio
+Description: It is possible to perform a series of tasks, such as transforming audio into text, text into audio, feeling analysis and much more.
 
-1- aqui basicamente submeti um audio em inglês, poderia seu outro idioma.
-2- o modelo analisei o audio online e realizou a transcrição em texto e também gerou o json.
+1- here I basically submitted an audio in English, could you use another language.
+2- the model analyzed the audio online and transcribed it into text and also generated the json.
