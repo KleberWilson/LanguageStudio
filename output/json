@@ -1,0 +1,1095 @@
+[
+    {
+        "Id": "1ed3249b73b447649d9997c8697d6545",
+        "RecognitionStatus": 0,
+        "Offset": 9300000,
+        "Duration": 177200000,
+        "Channel": 0,
+        "DisplayText": "Hey guys I'm a user using the speech studio from real time speech to text from Azure AI speech studio and using machine learning models to understand the translating and transcripts my voice to text.",
+        "NBest": [
+            {
+                "Confidence": 0.7302543,
+                "Lexical": "hey guys i'm a user using the speech studio from real time speech to text from azure AI speech studio and using machine learning models to understand the translating and transcripts my voice to text",
+                "ITN": "hey guys i'm a user using the speech studio from real time speech to text from azure AI speech studio and using machine learning models to understand the translating and transcripts my voice to text",
+                "MaskedITN": "hey guys i'm a user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand the translating and transcripts my voice to text",
+                "Display": "Hey guys I'm a user using the speech studio from real time speech to text from Azure AI speech studio and using machine learning models to understand the translating and transcripts my voice to text.",
+                "Words": [
+                    {
+                        "Word": "hey",
+                        "Offset": 9300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 11700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 22100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 24900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "user",
+                        "Offset": 25300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 34900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 39700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 41700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 49700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 58500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 65700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 68500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 71700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 81700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 83300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 91700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "azure",
+                        "Offset": 94100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 101700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 102500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 106100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 119300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "machine",
+                        "Offset": 123700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "learning",
+                        "Offset": 128900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "models",
+                        "Offset": 136100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 143300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 147700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 152900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "translating",
+                        "Offset": 154100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 161300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "transcripts",
+                        "Offset": 164900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 172100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "voice",
+                        "Offset": 174900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 180500000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7351721,
+                "Lexical": "hey guys i mean user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand the translating and transcripts of my voice to text",
+                "ITN": "hey guys i mean user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand the translating and transcripts of my voice to text",
+                "MaskedITN": "hey guys i mean user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand the translating and transcripts of my voice to text",
+                "Display": "hey guys i mean user using the speech studio from real time speech to text from azure AI speech studio and using machine learning models to understand the translating and transcripts of my voice to text",
+                "Words": [
+                    {
+                        "Word": "hey",
+                        "Offset": 9300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 11700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 22500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "mean",
+                        "Offset": 22900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "user",
+                        "Offset": 25700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 34900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 39700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 41700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 49700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 58500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 65700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 68500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 71700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 81700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 83300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 91700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "azure",
+                        "Offset": 94100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 101700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 102500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 106100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 119300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "machine",
+                        "Offset": 123700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "learning",
+                        "Offset": 128900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "models",
+                        "Offset": 136100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 143300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 147700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 152900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "translating",
+                        "Offset": 154100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 161300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "transcripts",
+                        "Offset": 164900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 171700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 172500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "voice",
+                        "Offset": 174900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 180500000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7282276,
+                "Lexical": "hey guys i'm a user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand it translating and transcripts my voice to text",
+                "ITN": "hey guys i'm a user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand it translating and transcripts my voice to text",
+                "MaskedITN": "hey guys i'm a user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand it translating and transcripts my voice to text",
+                "Display": "hey guys i'm a user using the speech studio from real time speech to text from azure AI speech studio and using machine learning models to understand it translating and transcripts my voice to text",
+                "Words": [
+                    {
+                        "Word": "hey",
+                        "Offset": 9300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 11700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 22100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 24900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "user",
+                        "Offset": 25300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 34900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 39700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 41700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 49700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 58500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 65700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 68500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 71700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 81700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 83300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 91700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "azure",
+                        "Offset": 94100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 101700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 102500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 106100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 119300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "machine",
+                        "Offset": 123700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "learning",
+                        "Offset": 128900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "models",
+                        "Offset": 136100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 143300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 147700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 153300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "translating",
+                        "Offset": 154100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 161300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "transcripts",
+                        "Offset": 164900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 172100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "voice",
+                        "Offset": 174900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 180500000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.74923575,
+                "Lexical": "hey guys i mean user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand the translating and transcripts my voice to text",
+                "ITN": "hey guys i mean user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand the translating and transcripts my voice to text",
+                "MaskedITN": "hey guys i mean user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand the translating and transcripts my voice to text",
+                "Display": "hey guys i mean user using the speech studio from real time speech to text from azure AI speech studio and using machine learning models to understand the translating and transcripts my voice to text",
+                "Words": [
+                    {
+                        "Word": "hey",
+                        "Offset": 9300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 11700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 22500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "mean",
+                        "Offset": 22900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "user",
+                        "Offset": 25700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 34900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 39700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 41700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 49700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 58500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 65700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 68500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 71700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 81700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 83300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 91700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "azure",
+                        "Offset": 94100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 101700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 102500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 106100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 119300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "machine",
+                        "Offset": 123700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "learning",
+                        "Offset": 128900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "models",
+                        "Offset": 136100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 143300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 147700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 152900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "translating",
+                        "Offset": 154100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 161300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "transcripts",
+                        "Offset": 164900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 172100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "voice",
+                        "Offset": 174900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 180500000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7472092,
+                "Lexical": "hey guys i mean user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand it translating and transcripts my voice to text",
+                "ITN": "hey guys i mean user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand it translating and transcripts my voice to text",
+                "MaskedITN": "hey guys i mean user using the speech studio from real time speech to text from azure ai speech studio and using machine learning models to understand it translating and transcripts my voice to text",
+                "Display": "hey guys i mean user using the speech studio from real time speech to text from azure AI speech studio and using machine learning models to understand it translating and transcripts my voice to text",
+                "Words": [
+                    {
+                        "Word": "hey",
+                        "Offset": 9300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 11700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 22500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "mean",
+                        "Offset": 22900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "user",
+                        "Offset": 25700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 34900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 39700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 41700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 49700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 58500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 65700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 68500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 71700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 81700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 83300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 91700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "azure",
+                        "Offset": 94100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 101700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 102500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 106100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "using",
+                        "Offset": 119300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "machine",
+                        "Offset": 123700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "learning",
+                        "Offset": 128900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "models",
+                        "Offset": 136100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 143300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 147700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 153300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "translating",
+                        "Offset": 154100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 161300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "transcripts",
+                        "Offset": 164900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 172100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "voice",
+                        "Offset": 174900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 180500000,
+                        "Duration": 6000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "7d556fc70a6242e4a30991091fdcf828",
+        "RecognitionStatus": 0,
+        "Offset": 193500000,
+        "Duration": 62000000,
+        "Channel": 0,
+        "DisplayText": "So it's a nice service. It's working perfectly and sounds good. Thank you.",
+        "NBest": [
+            {
+                "Confidence": 0.8231144,
+                "Lexical": "so it's a nice service it's working perfectly and sounds good thank you",
+                "ITN": "so it's a nice service it's working perfectly and sounds good thank you",
+                "MaskedITN": "so it's a nice service it's working perfectly and sounds good thank you",
+                "Display": "So it's a nice service. It's working perfectly and sounds good. Thank you.",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 193500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 198700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 201100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "nice",
+                        "Offset": 201500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "service",
+                        "Offset": 203100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 211900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "working",
+                        "Offset": 215900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "perfectly",
+                        "Offset": 221100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 234300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "sounds",
+                        "Offset": 237900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "good",
+                        "Offset": 241500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thank",
+                        "Offset": 248300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 251100000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8435775,
+                "Lexical": "so it's a nice servicing it's working perfectly and sounds good thank you",
+                "ITN": "so it's a nice servicing it's working perfectly and sounds good thank you",
+                "MaskedITN": "so it's a nice servicing it's working perfectly and sounds good thank you",
+                "Display": "so it's a nice servicing it's working perfectly and sounds good thank you",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 193500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 198700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 201100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "nice",
+                        "Offset": 201500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "servicing",
+                        "Offset": 203100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 211500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "working",
+                        "Offset": 215900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "perfectly",
+                        "Offset": 221100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 234300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "sounds",
+                        "Offset": 237900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "good",
+                        "Offset": 241500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thank",
+                        "Offset": 248300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 251100000,
+                        "Duration": 4400000
+                    }
+                ]
+            }
+        ]
+    }
+]
